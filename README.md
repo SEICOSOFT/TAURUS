@@ -16,4 +16,8 @@ Source code is available for the following engines:
 
 NOTE: Images, Sounds and Fonts included for demonstration purposes only, no commercial use allowed. The actual project file is free to use for any purposes
 
+In case you like what we do, you can support us with a small amount of donation here: https://gametemplates.itch.io/template-taurus-project
+
+Or you can also contribute with improvements and new features.
+
 Have fun!
